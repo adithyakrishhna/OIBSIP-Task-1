@@ -1,4 +1,3 @@
-# Oasis Infybyte Data Science Internship
 ## Iris Flower Classification Machine Learning Project
 
 This project is part of the Oasis Infybyte Data Science Internship and focuses on building a machine learning model to classify Iris flowers into different species based on their features.
