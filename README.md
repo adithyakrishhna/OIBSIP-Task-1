@@ -1,4 +1,4 @@
-## Iris Flower Classification Machine Learning Project
+## Iris Flower Classification Using Machine Learning 
 
 This project is part of the Oasis Infybyte Data Science Internship and focuses on building a machine learning model to classify Iris flowers into different species based on their features.
 
